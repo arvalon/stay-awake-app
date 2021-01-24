@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stay-awake-app.iml" filepath="$PROJECT_DIR$/stay-awake-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StayAwakeApp.iml" filepath="$PROJECT_DIR$/StayAwakeApp.iml" group="StayAwakeApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="StayAwakeApp/app" />
     </modules>
   </component>
 </project>
